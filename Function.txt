@@ -4,5 +4,8 @@
 #add function_2
 
 #not cimmit
-#add function_4 1 #master_add function5
-
+#add function_4 1  @main_1 add function
+#function 8
+##New_Function in Master
+##Funct1
+##Funct2
